@@ -1,4 +1,4 @@
-name = ('Sergey')  # variable str
+name = 'Sergey'  # variable str
 print('Name:' ,name)
 Age = 64             # variable int
 print('Age:', Age)
