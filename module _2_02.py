@@ -1,4 +1,3 @@
-from time import sleep
 print('Ведите три целых числа: ')
 first=(input('первое число: '))
 second=(input('второе число: '))
@@ -9,4 +8,3 @@ elif first == second or first == third or second == third:    # check second con
     print('2')
 else :                                                        # rest conditions
     print('0')
-sleep(5)
